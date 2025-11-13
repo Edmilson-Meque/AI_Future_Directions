@@ -10,12 +10,6 @@ Este projeto demonstra como criar e converter um modelo de **Edge AI** usando Te
 - Testar em uma imagem de exemplo.
 - Demonstrar como Edge AI reduz latência e aumenta privacidade.
 
-### Estrutura do Repositório
-- `notebooks/edge_ai_demo.ipynb` → notebook para treinar e converter o modelo.
-- `src/edge_ai_model.py` → funções de pré-processamento e inferência.
-- `data/sample_dataset/` → dataset de imagens de recicláveis.
-- `diagrams/edge_ai_flowchart.png` → diagrama do fluxo de Edge AI.
-- `requirements.txt` → dependências do projeto.
 
 ### Como Executar
 1. Instale dependências:
